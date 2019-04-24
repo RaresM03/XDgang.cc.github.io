@@ -1,0 +1,33 @@
+body{
+	     background:#ff0000;
+		 font-family: Raleway,Helvetica Neue,Helvetica,sans-serif;
+         font-weight: 400;
+         font-size: 14px;
+         line-height: 1.42857143;
+         color: #eee;
+         background-color: #101010;
+		 
+
+	    }
+	  #jumbo-container {
+		 background:#333333;
+         margin-top: 20px;
+         text-align: center;		                       		 		 
+		}
+      .container {
+		 margin: 1000px;
+		 border-radius:6px;		
+		 background:#333333;       
+         margin-right: 100px;
+         margin-left: 100px;	
+         padding: 100px 15px;
+         margin-bottom: 50px;
+         background-color: #222;         		 
+	    }
+		.divide{
+		  
+		
+		}
+	  
+	     
+    }  
